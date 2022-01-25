@@ -1,0 +1,16 @@
+{
+    "name": "kordian-kowalski/dummy-php-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "KordianKowalski\\DummyPhpPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kordian Kowalski",
+            "email": "kordian.kowalski@gmail.com"
+        }
+    ],
+    "require": {}
+}
